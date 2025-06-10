@@ -30,6 +30,6 @@ e_voting/
 3. Ikuti menu navigasi untuk menggunakan aplikasi.
 
 ## Dibuat oleh:
-- [Nama Mahasiswa]
-- [NIM]
-- [Kelas]
+- Devi Rangga Gilang
+- 20240040096
+- TI24F
